@@ -81,6 +81,11 @@ li + li { margin-top: 0.35rem; }
   text-decoration: none;
   color: inherit;
 }
+.brand-logo {
+  height: 2.6rem;
+  width: auto;
+  display: block;
+}
 .brand-mark {
   width: 2.1rem;
   height: 2.1rem;
@@ -475,6 +480,11 @@ li + li { margin-top: 0.35rem; }
   display: flex;
   gap: 0.75rem;
   align-items: center;
+}
+.footer-logo {
+  height: 2.2rem;
+  width: auto;
+  display: block;
 }
 .footer-brand strong { color: var(--cream); display: block; }
 .footer-brand p { margin: 0; font-size: 0.85rem; }
